@@ -9,8 +9,8 @@ This is an e-commerce application built with JavaScript. Vue for the frontend an
 ### Environment Setup
 
 #### 1. Create the file
-Create a file called .env <br />
-Copy everything from the .env.example file and paste it in the new .env file
+Create a file called .env in the root of the server folder<br />
+Copy everything from the .env.example file in the server folder and paste it in the new .env file and then delete .env.example
 
 PORT=5000<br />
 MONGODBURL=mongodb-uri<br />
