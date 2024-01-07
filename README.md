@@ -8,6 +8,11 @@ This is an e-commerce application built with JavaScript. Vue for the frontend an
 
 ### 2. Install dependencies
 ```bash
+cd client
+npm install
+```
+```bash
+cd server
 npm install
 ```
 
