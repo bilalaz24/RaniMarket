@@ -41,13 +41,19 @@ cd server
 npm install
 ```
 
-#### 2. Run client
+#### 2. Add Products
+```bash
+cd server
+node seed.js
+```
+
+#### 3. Run client
 ```bash
 cd client
 npm run serve
 ```
 
-### 3. Run server
+### 4. Run server
 ```bash
 cd server
 npm start
