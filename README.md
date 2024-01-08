@@ -38,7 +38,10 @@ npm install
 ```
 ```bash
 cd server
-npm install
+```
+*If it doesn't exist in package.json*
+```bash
+npm install mongodb mongoose dotenv
 ```
 
 #### 2. Add Products
