@@ -20,8 +20,8 @@
                 <h2>Media</h2>
 
                 <h3>Facebook <a href="https://www.facebook.com" target="_blank"><img href="" class="media-sign" src="../assets/footer/Facebook.png" alt="Facebook logo"></a></h3>
-                <h3>Instagram <a href="https://twitter.com" target="_blank"><img class="media-sign" src="../assets/footer/Instagram.png" alt="Instagram logo"></a></h3>
-                <h3>Twitter <a href="https://instagram.com" target="_blank"><img class="media-sign" src="../assets/footer/Twitter.png" alt="Twitter logo"></a></h3>
+                <h3>Instagram <a href="https://instagram.com" target="_blank"><img class="media-sign" src="../assets/footer/Instagram.png" alt="Instagram logo"></a></h3>
+                <h3>Twitter <a href="https://twitter.com" target="_blank"><img class="media-sign" src="../assets/footer/Twitter.png" alt="Twitter logo"></a></h3>
             </div>
         </div>
         <div class="copy-right">
